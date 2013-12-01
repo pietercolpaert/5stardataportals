@@ -1,8 +1,8 @@
 # 5 stars of Open Data Portals
 
-## The 5 stars
-
 A website gathering examples for the 5 stars of Open Data Portals
+
+## The 5 stars
 
 ### ★ A dataset registry
 
@@ -26,8 +26,12 @@ Make sure you manage the datasets in an open world and free them from the silo t
 
 For example, having URIs for things and concepts in your organization, which everyone may publish statements about on The Web.
 
+
 ## The paper
 
 There is a paper about the 5 stars of Open Data Portals, which has been presented at the MeTTeG13 conference in Vigo.
 
 The 5 stars of Open Data Portals, Pieter Colpaert et al., MeTTeG13 proceedings, October 2013
+
+And the talk can be found on speakerdeck:
+https://speakerdeck.com/pietercolpaert/the-5-stars-of-open-data-portals
