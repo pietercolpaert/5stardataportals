@@ -1,4 +1,4 @@
-# 5 stars of Open Data Portals
+# [5 stars of Open Data Portals](http://pieter.pm/5stardataportals/)
 
 A website gathering examples for the 5 stars of Open Data Portals
 
